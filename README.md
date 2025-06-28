@@ -149,7 +149,7 @@ docker build -t minha-api-jwt .
 
 **Hospedagem em Plataformas Gratuitas**:
 
-Você pode fazer o deploy desta aplicação em plataformas como Render ou Railway, que suportam imagens Docker e integração com GitHub.
+Você pode fazer o deploy desta aplicação em plataformas como Render ou Railway, que suportam imagens Docker e integração com GitHub.Hospedagem usada no projeto:
 
 1. **Render**:
    - Crie uma conta em Render.com.
