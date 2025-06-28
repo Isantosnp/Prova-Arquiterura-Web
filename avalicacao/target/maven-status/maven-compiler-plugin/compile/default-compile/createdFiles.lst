@@ -1,0 +1,8 @@
+com/prova/avalicacao/service/JwtService.class
+com/prova/avalicacao/config/SecurityConfig.class
+com/prova/avalicacao/service/AuthService.class
+com/prova/avalicacao/repository/UserRepository.class
+com/prova/avalicacao/model/User.class
+com/prova/avalicacao/controller/AuthController.class
+com/prova/avalicacao/AvalicacaoApplication.class
+com/prova/avalicacao/config/SwaggerConfig.class

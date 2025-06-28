@@ -1,0 +1,8 @@
+/home/isabella/Documentos/avalicacao/src/main/java/com/prova/avalicacao/AvalicacaoApplication.java
+/home/isabella/Documentos/avalicacao/src/main/java/com/prova/avalicacao/config/SecurityConfig.java
+/home/isabella/Documentos/avalicacao/src/main/java/com/prova/avalicacao/config/SwaggerConfig.java
+/home/isabella/Documentos/avalicacao/src/main/java/com/prova/avalicacao/controller/AuthController.java
+/home/isabella/Documentos/avalicacao/src/main/java/com/prova/avalicacao/model/User.java
+/home/isabella/Documentos/avalicacao/src/main/java/com/prova/avalicacao/repository/UserRepository.java
+/home/isabella/Documentos/avalicacao/src/main/java/com/prova/avalicacao/service/AuthService.java
+/home/isabella/Documentos/avalicacao/src/main/java/com/prova/avalicacao/service/JwtService.java
